@@ -1,0 +1,18 @@
+{
+    "name": "ejercicio-1",
+    "version": "1.0.0",
+    "description": "Este proyecto es un ejemplo básico de un proyecto Node.js que verifica si un número es primo.",
+    "main": "main.js",
+    "type": "commonjs",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.4.5"
+    }
+  }
+  
