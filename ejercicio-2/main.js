@@ -20,6 +20,15 @@ async function CreateFile(path, data) {
   }
 }
 
+async function CreateFile2(path, data) {
+  try {
+    await fs.appendFile(path, data, "utf-8");
+    console.log("archivo escrito correctamente!");
+  } catch (error) {
+    console.log("error", error);
+  }
+}
+
 const indexData = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,4 +43,4 @@ const indexData = `<!DOCTYPE html>
 </html>`;
 
 CreateFile("./directorio/index.html", indexData);
-CreateFile("./directorio/server.js", "");
+CreateFile2("./directorio/server.js", "");
