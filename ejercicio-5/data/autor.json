@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gabriel García Márquez",
+    "nacionalidad": "Colombiano",
+    "edad": 87,
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "Cien años de soledad",
+        "anio": 1967
+      },
+      {
+        "id": 2,
+        "titulo": "El amor en los tiempos del cólera",
+        "anio": 1985
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "J.K. Rowling",
+    "nacionalidad": "Británica",
+    "edad": 59,
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "anio": 1997
+      },
+      {
+        "id": 2,
+        "titulo": "Harry Potter y la cámara secreta",
+        "anio": 1998
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Jorge Luis Borges",
+    "nacionalidad": "Argentino",
+    "edad": 120,
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "Ficciones",
+        "anio": 1944
+      },
+      {
+        "id": 2,
+        "titulo": "El Aleph",
+        "anio": 1949
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Gabriel García Márquez",
+    "nacionalidad": "Colombiano",
+    "edad": 87,
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "anio": 1997
+      },
+      {
+        "id": 2,
+        "titulo": "Harry Potter y la cámara secreta",
+        "anio": 1998
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Nuevo Personaje",
+    "nacionalidad": "Español",
+    "edad": 23,
+    "libros": [
+      {
+        "id": 1,
+        "titulo": "uno",
+        "anio": 1967
+    },
+    {
+        "id": 2,
+        "titulo": "otro",
+        "anio": 1985
+    }
+    ]
+  }
+]
