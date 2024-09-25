@@ -177,3 +177,15 @@ Asegúrate de tener instalado lo siguiente:
    ```bash
    git clone https://github.com/MiguelJimenezDavinci/aplicaciones-hibridas-DWN4AP.git
    ```
+
+2. **Instala las Dependencias**:
+
+   ```bash
+   npm i
+   ```
+
+3. **Inicia el Servidor**:
+
+   ```bash
+   npm start
+   ```
