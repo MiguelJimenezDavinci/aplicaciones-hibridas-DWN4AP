@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "6705b6aa7363f778c12b9b9f"
+  },
+  "username": "usuario1",
+  "email": "usuario1@example.com",
+  "password": "$2b$10$Zrg/l48qG4gkxWE63rSyDesUkIGRbpa0qGPHqUWA0401FgzQVIaBe",
+  "motocicletas": [
+    {
+      "$oid": "6705b4027363f778c12b9b8b"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    }
+  ],
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "6705b6ce7363f778c12b9ba1"
+  },
+  "username": "usuario2",
+  "email": "usuario2@example.com",
+  "password": "$2b$10$t5aRmJi/UPW1AvXE1DmrMuib3COjyUmKDYdF91MDccchsfn89JGI2",
+  "motocicletas": [
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    }
+  ],
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "6705b6e27363f778c12b9ba3"
+  },
+  "username": "usuario3",
+  "email": "usuario3@example.com",
+  "password": "$2b$10$NpROo0QVx47ZQacTBVO.yOSst7LiwFmqC1AFhSbiakhvx3LWEdo/S",
+  "motocicletas": [
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    }
+  ],
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6705b6ea7363f778c12b9ba5"
+  },
+  "username": "usuario4",
+  "email": "usuario4@example.com",
+  "password": "$2b$10$of/ftuejjmFkknba7RSkhuWUJsI6HxcPN/bW5h6eyxX.XrWbJH0eS",
+  "motocicletas": [
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    },
+    {
+      "$oid": "6705b4967363f778c12b9b8d"
+    }
+  ],
+  "__v": 4
+}]

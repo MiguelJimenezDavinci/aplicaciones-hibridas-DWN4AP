@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6705b3cc7363f778c12b9b83"
+  },
+  "nombre": "Deportiva",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b3d87363f778c12b9b85"
+  },
+  "nombre": "Scooter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b3e37363f778c12b9b87"
+  },
+  "nombre": "Adventure",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "nombre": "Touring",
+  "__v": 0
+}]

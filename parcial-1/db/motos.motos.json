@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6705b4027363f778c12b9b8b"
+  },
+  "marca": "Yamaha",
+  "modelo": "MT-07",
+  "cilindrada": 689,
+  "año": 2021,
+  "color": "Negro",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b4967363f778c12b9b8d"
+  },
+  "marca": "Yamaha",
+  "modelo": "MT-09",
+  "cilindrada": 689,
+  "año": 2021,
+  "color": "Negro",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b4d67363f778c12b9b8f"
+  },
+  "marca": "Harley-Davidson",
+  "modelo": "Iron 883",
+  "cilindrada": 883,
+  "año": 2020,
+  "color": "Negro",
+  "estado": "Usado",
+  "categoria": {
+    "$oid": "6705b3d87363f778c12b9b85"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b51b7363f778c12b9b91"
+  },
+  "marca": "BMW",
+  "modelo": "R 1250 GS",
+  "cilindrada": 1254,
+  "año": 2022,
+  "color": "Azul",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3d87363f778c12b9b85"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5587363f778c12b9b93"
+  },
+  "marca": "Honda",
+  "modelo": "TT 1250 ",
+  "cilindrada": 1254,
+  "año": 2024,
+  "color": "Rojo",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3e37363f778c12b9b87"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5607363f778c12b9b95"
+  },
+  "marca": "Honda",
+  "modelo": "TT 1250 ",
+  "cilindrada": 1254,
+  "año": 2024,
+  "color": "Verde",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3e37363f778c12b9b87"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5667363f778c12b9b97"
+  },
+  "marca": "Honda",
+  "modelo": "TT 1250 ",
+  "cilindrada": 1254,
+  "año": 2024,
+  "color": "Violeta",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3e37363f778c12b9b87"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5be7363f778c12b9b99"
+  },
+  "marca": "Suzuki",
+  "modelo": "AN VIA 650",
+  "cilindrada": 638,
+  "año": 2024,
+  "color": "Amariilo",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5c67363f778c12b9b9b"
+  },
+  "marca": "Suzuki",
+  "modelo": "AN VIA 650",
+  "cilindrada": 638,
+  "año": 2024,
+  "color": "Azul",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6705b5c97363f778c12b9b9d"
+  },
+  "marca": "Suzuki",
+  "modelo": "AN VIA 650",
+  "cilindrada": 638,
+  "año": 2024,
+  "color": "Azul",
+  "estado": "Nuevo",
+  "categoria": {
+    "$oid": "6705b3ef7363f778c12b9b89"
+  },
+  "__v": 0
+}]
